@@ -12,7 +12,7 @@ new Vue({
 		}
 	}
 })
-/*
+/*  
  * el:element需要获取的元素，一定是html中的根容器的元素;
  * data:数据的存储
  * methods:定义方法
